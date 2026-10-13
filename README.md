@@ -4,14 +4,15 @@
 
 - 💻 I am a **Computer Programming** student at **Ankara University Nallıhan MYO**.
 - 🎮 Passionate about **Game Development** (Unity, C#) and **3D Modeling** (Blender).
-- 🌐 Focused on improving my skills in **HTML, CSS, JavaScript, and C++**.
+- ⚙️ Experienced in core programming fundamentals, object-oriented concepts, and databases (**C, C++, C#, MySQL, MS SQL**).
+- 🌐 Focused on web development with **HTML, CSS, and JavaScript**.
 - 🥊 Interested in fitness, strength training, and boxing.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,csharp,unity,blender,vscode,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,csharp,html,css,js,mysql,mssql,unity,blender,vscode,git" />
 </p>
 
 ---
@@ -26,19 +27,4 @@
 
 ### 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/burakyigitsolmaz)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burakyigitsolmaz)## Hi there 👋
-
-<!--
-**burakyigitsolmaz/burakyigitsolmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burakyigitsolmaz)
