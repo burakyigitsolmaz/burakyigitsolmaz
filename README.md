@@ -26,4 +26,4 @@
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/burakyigitsolmaz)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burakyigitsolmaz)
-[![Resume](https://img.shields.io/badge/📄_View-My_CV-blue?style=for-the-badge)](https://github.com/KULLANICI_ADIN/REPO_ADIN/blob/main/Burak_Yigit_Solmaz_CV.pdf)
+[![MY CV](https://img.shields.io/badge/📄_VIEW-MY_CV-0078D4?style=for-the-badge)](https://github.com/burakyigitsolmaz/burakyigitsolmaz/blob/main/Burak_Yigit_Solmaz_CV.pdf)
