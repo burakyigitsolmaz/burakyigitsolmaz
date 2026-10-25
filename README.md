@@ -26,4 +26,4 @@
 ### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/burakyigitsolmaz)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burakyigitsolmaz)
-[![CV](https://img.shields.io/badge/CV-VIEW-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=D00000)](CV_LINKINIZ)
+[![CV](https://img.shields.io/badge/CV-VIEW-D00000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=000000)](CV_LINKINIZ)
