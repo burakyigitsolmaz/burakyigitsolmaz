@@ -17,10 +17,9 @@
 
 ### GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/burakyigitsolmaz)
+![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/burakyigitsolmaz)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### Connect with me
