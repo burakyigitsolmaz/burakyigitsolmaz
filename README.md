@@ -17,8 +17,12 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/burakyigitsolmaz">
+    <img src="https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  </a>
+  <a href="https://github.com/burakyigitsolmaz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  </a>
 </p>
 
 ---
