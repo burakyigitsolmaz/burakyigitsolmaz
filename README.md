@@ -15,8 +15,10 @@
 ---
 
 ### GitHub Stats
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=burakyigitsolmaz&theme=tokyonight" alt="Burak's GitHub Stats" />
+<p>
+  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/github/followers/burakyigitsolmaz?color=2ea44f&label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/burakyigitsolmaz?color=informational&label=Public%20Repos&style=for-the-badge&logo=github" alt="Public Repos" />
 </p>
 
 ---
