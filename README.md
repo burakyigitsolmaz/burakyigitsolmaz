@@ -16,9 +16,8 @@
 
 ### GitHub Stats
 <p>
-  <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  <img src="https://img.shields.io/github/followers/burakyigitsolmaz?color=2ea44f&label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/burakyigitsolmaz?color=informational&label=Public%20Repos&style=for-the-badge&logo=github" alt="Public Repos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Burak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
