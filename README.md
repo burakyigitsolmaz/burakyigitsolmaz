@@ -16,12 +16,8 @@
 
 ### GitHub Stats
 <p align="left">
-  <a href="https://github.com/burakyigitsolmaz">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Burak's GitHub Stats" />
-  </a>
-  <a href="https://github.com/burakyigitsolmaz">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Burak's GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
