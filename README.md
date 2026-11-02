@@ -17,7 +17,7 @@
 
 ### GitHub Stats
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=burakyigitsolmaz&theme=tokyonight&hide_border=true)](https://github.com/burakyigitsolmaz)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/burakyigitsolmaz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/burakyigitsolmaz)
 
