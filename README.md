@@ -16,9 +16,16 @@
 ---
 
 ### GitHub Stats
-| | |
-|:---:|:---:|
-| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=burakyigitsolmaz&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true) |
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakyigitsolmaz&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
