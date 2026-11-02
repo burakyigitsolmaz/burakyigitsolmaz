@@ -1,5 +1,4 @@
 ### Burak Yiğit Solmaz
-
 - Computer Programming student at Ankara University Nallıhan MYO.
 - Focused on Game Development (Unity, C#) and 3D Modeling (Blender).
 - Experienced in core programming fundamentals, object-oriented concepts, and databases (C, C++, C#, MySQL, MS SQL).
@@ -16,10 +15,11 @@
 ---
 
 ### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true" alt="Burak's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
+</p>
 
-![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=burakyigitsolmaz&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burakyigitsolmaz&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ### Connect with me
