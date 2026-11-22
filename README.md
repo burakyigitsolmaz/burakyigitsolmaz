@@ -34,3 +34,6 @@
 <a href="https://github.com/burakyigitsolmaz/burakyigitsolmaz/blob/main/Burak_Yigit_Solmaz_CV.pdf">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=230&text=VIEW%20MY%20CV&fontColor=FF1A1A&fontSize=60" width="200" alt="View My CV">
 </a>
+<a href="https://github.com/burakyigitsolmaz/burakyigitsolmaz/blob/main/Burak_Yigit_Solmaz_Eu.pdf">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=230&text=EUROPASS%20CV&fontColor=FF1A1A&fontSize=60" width="200" alt="Europass CV">
+</a>
