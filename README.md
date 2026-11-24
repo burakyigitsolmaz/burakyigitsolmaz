@@ -28,8 +28,11 @@
 ### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burakyigitsolmaz/)
+<br>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solmazburakss@gmail.com)
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/burakyigitsolmaz)
+<br>
 <a href="https://github.com/burakyigitsolmaz/burakyigitsolmaz/blob/main/Burak_Yigit_Solmaz_CV.pdf">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=230&text=VIEW%20MY%20CV&fontColor=FF1A1A&fontSize=60" width="200" alt="View My CV">
 </a>
